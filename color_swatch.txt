@@ -1,0 +1,5 @@
+#0E1204		deep green;
+#FFFFFF		white;
+#505927		faded-deep-green;
+#B9B611		yellow tone;
+#5F7221		green;
